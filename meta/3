@@ -1,0 +1,21 @@
+{
+  "description": "None NFT",
+  "external_url": "https://www.facebook.com/vvanduyms",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVLzcdCULjVjkCc7p2oEReTk8XUFJjdPnGN33RARUbZzr",
+  "name": "Image 3",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Van Duy"
+    },
+    {
+      "trait_type": "Source",
+      "value": "Internet"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Published",
+      "value": 1531951200
+    }
+  ]
+}

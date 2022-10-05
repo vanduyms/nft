@@ -1,0 +1,21 @@
+{
+  "description": "MonkeyNFT",
+  "external_url": "https://www.facebook.com/vvanduyms",
+  "image": "https://ipfs.io/ipfs/QmR9xwu6zMAzh113xfDkekgs8zLLwPRVaSqMBYwu7dCoz4",
+  "name": "Monkey NFT # 1",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Van Duy"
+    },
+    {
+      "trait_type": "Source",
+      "value": "Internet"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Published",
+      "value": 1531951200
+    }
+  ]
+}

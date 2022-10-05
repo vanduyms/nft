@@ -1,0 +1,21 @@
+{
+  "description": "Image2",
+  "external_url": "https://www.facebook.com/vvanduyms",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQuygaHWa1nMpe65ZSU9WsE6sCwmRmQW8f45iFps2Pm6C",
+  "name": "Goodbye",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Van Duy"
+    },
+    {
+      "trait_type": "Source",
+      "value": "Internet"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Published",
+      "value": 1531951200
+    }
+  ]
+}

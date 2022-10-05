@@ -1,0 +1,21 @@
+{
+  "description": "Not an NFT",
+  "external_url": "https://www.facebook.com/vvanduyms",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRZeziobhiqFhHQKQxfn2xUvAH3o1Sx8yNTh7BVkkPPdk",
+  "name": "No Internet",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Van Duy"
+    },
+    {
+      "trait_type": "Source",
+      "value": "Internet"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Published",
+      "value": 1531951200
+    }
+  ]
+}

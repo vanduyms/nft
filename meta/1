@@ -1,0 +1,17 @@
+{
+  "description": "Image1",
+  "external_url": "https://www.pexels.com/photo/milky-way-galaxy-during-nighttime-1252890/",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZ6iJbUpEfKxUodwx4DgaF9zquvRjJEMXAkH8EJtWPLKm",
+  "name": "Hello",
+  "attributes": [
+    {
+      "trait_type": "Resource",
+      "value": "Fidanov"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Published",
+      "value": 1531951200
+    }
+  ]
+}
